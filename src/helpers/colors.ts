@@ -1,0 +1,1 @@
+export const diskColors = [ "blackAlpha" , "gray" , "red" , "orange" , "yellow" , "green" , "blue" , "cyan" , "purple" , "pink" , "linkedin" , "facebook" , "messenger" , "whatsapp" , "twitter" , "telegram"];
